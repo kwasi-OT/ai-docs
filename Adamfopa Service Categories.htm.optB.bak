@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Adamfopa Service Categories</title>
+<style>
+/* Cleaned CSS — minimal */
+html,body{height:100%;}
+body{font-family: Aptos, Arial, Helvetica, sans-serif; font-size:12pt; line-height:1.15; margin:0 1rem; color:#000; -webkit-font-smoothing:antialiased;}
+p{margin:0 0 8px 0}
+h1{font-size:20pt; font-family:"Aptos Display", Arial, Helvetica, sans-serif; color:#0F4761; margin:0 0 8px 0}
+h2{font-size:16pt; color:#0F4761; margin:8px 0}
+h3{font-size:14pt; margin:8px 0}
+ul,ol{margin:0 0 8px 1.5rem;padding:0}
+.MsoNormal, .MsoListParagraph, .MsoHeading7, .MsoHeader, .MsoFooter { margin:0 0 8px 0; font-family:inherit; font-size:inherit }
+.GramE, .SpellE { text-decoration:none; color:inherit; font-style:inherit }
+header.site-header, .site-header { display:block; margin-bottom:1rem }
+footer.site-footer, .site-footer { display:block; margin-top:1.5rem; color:#555; font-size:0.9em }
+table{border-collapse:collapse;border-spacing:0}
+img{max-width:100%;height:auto}
+
+</style>
+</head>
+<body>
+<p>Name="HTML Typewriter"/&gt;</p>
+<div>
+<p class="MsoNormal"><b>Agent Name: Adoma</b></p>
+<p class="MsoNormal"></p>
+<p class="MsoNormal"><b>Agent Purpose (Description)</b></p>
+<p class="MsoNormal">The <b>Adoma</b> is a fast, empathetic estimating and
+funeral builder assistant designed to support <span class="SpellE"><b>Adamfo</b></span><b>
+Paï¿½s funeral orchestrator (Dorothy)</b> and affluent clients who need <b>quick,
+high-level funeral cost estimates</b> without lengthy conversations.</p>
+<p class="MsoNormal">The agent focuses on:</p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>Target Users</b></p>
+<ol type="1">
+<li class="MsoNormal"><p class="MsoNormal"><b>Agent Tone &amp; Personality</b></p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>Welcome Page (Page Load Experience)</b></p>
+<p class="MsoNormal"><b>Humanized Welcome Message:</b></p>
+<p class="MsoNormal">Hello, Iï¿½m <b>Adoma</b> from <span class="SpellE"><i>Adamfo</i></span><i>
+Pa</i>.</p>
+<p class="MsoNormal">How may I help you?</p>
+<p class="MsoNormal"><b>Suggested Prompt Buttons</b></p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>Core Capabilities</b></p>
+<p class="MsoNormal"><b>1. Quick Funeral Estimation</b></p>
+<p class="MsoNormal">The agent can generate <b>on-the-fly estimates</b> using:</p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>2. Automatic Scale Deduction (Behind the Scenes Logic)</b></p>
+<p class="MsoNormal">Based on guest size, the agent should <b>auto-suggest
+quantities</b>, for example:</p>
+<table class="MsoNormalTable">
+<thead>
+<tr>
+<td>
+<p class="MsoNormal"><b>Guests</b></p>
+</td>
+<td>
+<p class="MsoNormal"><b>Canopies</b></p>
+</td>
+<td>
+<p class="MsoNormal"><b>Chairs</b></p>
+</td>
+<td>
+<p class="MsoNormal"><b>Tables</b></p>
+</td>
+</tr>
+</thead>
+<tr>
+<td>
+<p class="MsoNormal">50ï¿½100</p>
+</td>
+<td>
+<p class="MsoNormal">2ï¿½3</p>
+</td>
+<td>
+<p class="MsoNormal">100</p>
+</td>
+<td>
+<p class="MsoNormal">10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MsoNormal">100ï¿½300</p>
+</td>
+<td>
+<p class="MsoNormal">5ï¿½8</p>
+</td>
+<td>
+<p class="MsoNormal">300</p>
+</td>
+<td>
+<p class="MsoNormal">25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MsoNormal">300+</p>
+</td>
+<td>
+<p class="MsoNormal">10+</p>
+</td>
+<td>
+<p class="MsoNormal">600+</p>
+</td>
+<td>
+<p class="MsoNormal">50+</p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal">The agent should explain this simply:</p>
+<p class="MsoNormal">Based on an estimated <b>250 guests</b>, a typical setup may
+include:</p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>3. Knowledge Base</b></p>
+<p class="MsoNormal">The agent has access to:</p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>Output Format (Estimate Summary)</b></p>
+<p class="MsoNormal">Every estimate should be presented in a <b>clean, executive
+summary</b>, for example:</p>
+<p class="MsoNormal"><b>High-Level Funeral Estimate (Indicative)</b></p>
+<p class="MsoNormal">Estimated Guests: 250<br/>
+Estimated Duration: 1 day</p>
+<p class="MsoNormal"><b>Included Services</b></p>
+<ul type="disc">
+<li class="MsoNormal">Table Cloths</li>
+<li class="MsoNormal">coordination</li>
+</ul>
+<p class="MsoNormal"><b>Estimated Range:</b> GHS XX,000 ï¿½ GHS XX,000</p>
+<p class="MsoNormal">This can be refined further with Dorothy.</p>
+<p class="MsoNormal"></p>
+<p class="MsoNormal"><b>Human Handoff Logic (Critical)</b></p>
+<p class="MsoNormal"><b>When the User Selects ï¿½I Need to Talk to Someoneï¿½</b></p>
+<p class="MsoNormal">The agent must:</p>
+<ol type="1">
+<li class="MsoNormal"><p class="MsoNormal"><b>Internal Use by Dorothy</b></p>
+<p class="MsoNormal">When used internally:</p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><span class="GramE"><b>Guardrails</b></span><b> &amp;
+Constraints</b></p>
+<ul type="disc">
+<li class="MsoNormal"><p class="MsoNormal"><b>Brand Line (Optional Use)</b></p>
+<p class="MsoNormal"><span class="SpellE"><b>Adamfo</b></span><b> Pa</b> ï¿½ a
+certain friend in uncertain times.</p>
+<p class="MsoNormal"><b></b></p>
+<p class="MsoNormal"><b></b></p>
+<p class="MsoNormal"><b><span>Service
+Category and average estimated cost </span></b></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Body Care
+	 &amp; Preparation</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Custodial Care<span>ï¿½ï¿½ï¿½ </span>-<span>ï¿½ï¿½
+ </span>GHS60.00 per day</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Death registration<span>ï¿½ï¿½ </span>- GHS 200.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Embalming</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span class="GramE"><span>Standard -</span></span><span> GHS 2,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Post Autopsy cases - GHS 3,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>ï¿½</span></span><span>Undertaker Services</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Bathing/Sanitizing and dressing </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>At the mortuary ï¿½ GHS 1,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Outside mortuary ï¿½ GHS 3,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Bath and sanitizing only including
+bathing items &amp; body bags ï¿½ GHS 800.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Shroud and accessories for females ï¿½
+GHS 600.00</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Suits for males ï¿½ GHS 750.00</span></p>
+<p class="MsoNormal"></p>
+<p class="MsoNormal"></p>
+<p class="MsoListParagraphCxSpFirst"><span>Cremation</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Cremation (including documentation
+/permits) ï¿½ GHS 5,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Cremation ï¿½ export (includes
+documentation/permits) ï¿½ GHS 15,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Cremation urns ï¿½ GHS 900.00 ï¿½ GHS
+2,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span>Autopsy</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Autopsy (postmortem) services ï¿½ GHS
+500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Autopsy (postmortem) services with
+full report ï¿½ GHS 800.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Autopsy (postmortem) services for
+embalmed bodies ï¿½ GHS 1,200.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Autopsy (postmortem) services for
+embalmed bodies with full report ï¿½ GHS 2,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span>ï¿½</span><span>Graveyard services </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Grave marker (Epitaph) ï¿½ GHS 1,200.00</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Headstone ï¿½ GHS 900.00</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Caskets </span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>i.</span></span><span>Wooden ï¿½ GHS 7,000.00 ï¿½ GHS 45,000.00</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>ii.</span></span><span>Metal ï¿½ GHS 10,000.00 ï¿½ GHS 25,000.00</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Hearse
+     Services</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>i.</span></span><span>Chevrolet Hearse ï¿½ GHS 3,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>ii.</span></span><span>Cadillac Hearse ï¿½ GHS 3,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>iii.</span></span><span>Mercedes Benz ï¿½ GHS 4,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>iv.</span></span><span>Lincoln Hearse ï¿½ GHS 4,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>v.</span></span><span>Chrysler Hearse ï¿½ GHS 3,500.00</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>vi.</span></span><span>Van Hearse ï¿½ GHS 2,500.00</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Pallbearers
+     ï¿½ GHS 350.00 per person (minimum 5 persons)</span></li>
+<li class="MsoNormal"><span lang="EN-GB">i.</span>
+<p class="MsoListParagraphCxSpMiddle">ii.
+</p><p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle">iii.
+</p><p class="MsoListParagraphCxSpLast"></p>
+<p class="MsoNormal"><span lang="EN-GB" type="disc">
+<li class="MsoNormal"><span>Drinks
+     &amp; Refreshment Services</span></li>
+</span></p></li></ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Non-Alcoholic Beverages</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>1.</span></span><span>Canned Drinks ï¿½ GHS 350.00 PER PACK</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>2.</span></span><span>PET Bottled Drinks ï¿½ GHS 45.00 ï¿½ GHS
+80.00 PER PACK</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>3.</span></span><span>Glass Bottled Drinks ï¿½ GHS 150.00 ï¿½
+GHS 450.00 PER CRATE</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Alcoholic Beverages</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>1.</span></span><span>Canned Drinks ï¿½ GHS 400.00 PER PACK</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>2.</span></span><span>PET Bottled Drinks ï¿½ GHS 60.00 ï¿½ GHS
+150.00 PER PACK</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>3.</span></span><span>Glass Bottled Drinks - GHS 150.00 ï¿½
+GHS 450.00 PER CRATE</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Local Drinks Beverages </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>I.</span></span><span>Bottled Local Drinks ï¿½ GHS 10.00 PER
+BOTTLE</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>II.</span></span><span>Local Bar set up GHS 3,000.00 FOR 200
+HEADS</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>III.</span></span><span>Specifications:</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>1 item </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>2 items </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>3 items </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>4 items </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Others (Customized to clientï¿½s
+specifications)</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpLast"></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Chilling
+     and Waiting Services</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Chilling Only ï¿½ GHS 700.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Waiters Only ï¿½ GHS 250 PER WAITER</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Chiller Only ï¿½ GHS 60.00 PER CHILLER
+PER DAY</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Others (Specify)</span></p>
+<p class="MsoListParagraphCxSpLast"></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Logistics
+     Services (ALL PRICES ARE PER DAY)</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Marquee Tents ï¿½ GHS 150.00 </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Chairs ï¿½ GHS 5.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Tables ï¿½ GHS 30.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Tablecloth - GHS 30.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Misty fans GHS 300.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Donation boxes GHS 100.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Carpets ï¿½ 7-BY-10FT = GHS 100.00,
+7-BY-20FT = GHS 150.00, 7-BY-40FT = GHS 200.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Church trolley ï¿½ GHS 600.00</span></p>
+<p class="MsoListParagraphCxSpLast"></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Decorations</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Funeral wake room decorations ï¿½ GHS
+800 ï¿½ GHS 25,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Home decorations ï¿½ GHS 1,500.00 ï¿½ GHS
+15,00.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Church decorations ï¿½ GHS 2,000.00 ï¿½
+GHS 12,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Final funeral rites set up ï¿½ GHS
+5,000.00 ï¿½ GHS 40,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Reception decorations ï¿½ GHS 5,000.00 ï¿½
+GHS 30,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Photo Area setup ï¿½ GHS 6,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Others (Specify)</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span>Floral services</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Catafalque Flowers (Flowers around
+coffin)</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Natural ï¿½ GHS 2,000.00 ï¿½ GHS 5,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Artificial ï¿½ GHS 800.00 ï¿½ GHS 4,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Wreaths</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Natural ï¿½ GHS 800 - GHS 3,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Artificial ï¿½ GHS 150.00 ï¿½ GHS 900.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Casket spray</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Natural ï¿½ GHS 400.00 ï¿½ GHS 3,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Artificial ï¿½ GHS 200.00 ï¿½ GHS 2,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Mixed ï¿½ GHS 350.00 ï¿½ GHS 4,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Others (Specify)</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpLast"><span>Clergy -by arrangement ï¿½ GHS 1,000.00
+PER DAY</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Ushering
+     &amp; Protocol Services ï¿½ GHS 250.00 PER PERSON, PER DAY</span></li>
+<li class="MsoNormal"><span>Master of
+     Ceremony (MC) ï¿½ GHS 500.00 ï¿½ GHS 15,000.00 </span></li>
+<li class="MsoNormal"><span>Funeral
+     Branding</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Posters</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Banners</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Brochures</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Framed Portraits</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Condolence Books</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Souvenirs </span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Others (Specify)</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Entertainment
+     Services</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>DJ &amp; PA system ï¿½ GHS 1,500.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Live Band</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Musical band ï¿½ GHS 10,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Military band ï¿½ GHS 7,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>o</span></span><span>Traditional Band ï¿½ GHS 5,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Cultural dancers ï¿½ GHS 2,000.00 ï¿½ GHS
+15,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Choir provision ï¿½ GHS 1,500.00 ï¿½ GHS
+6,000.00</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Others (Specify)</span></p>
+<p class="MsoListParagraphCxSpMiddle"></p>
+<p class="MsoListParagraphCxSpMiddle"><span>ï¿½</span><span>Gift Bearers ï¿½ GHS 150.00 PER PERSON,
+PER DAY</span></p>
+<p class="MsoListParagraphCxSpLast"></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Media
+     Services</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Photography</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Videography</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Live streaming</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Content Creation</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Donation
+     Collection</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Bank collections</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Donation box provisions.</span></p>
+<p class="MsoNormal"></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Accommodation
+     Services</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Hotels</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Guest houses</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Lodges / inns</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Short-let apartments (Airbnb, serviced
+apartments)</span></p>
+<ul type="disc">
+<li class="MsoNormal"><span>Transportation
+     Services</span></li>
+</ul>
+<p class="MsoListParagraphCxSpFirst"><span><span>-</span></span><span>Sedan </span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>4x4 (Landcruiser, Lexis, etc....)</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Mini vans</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>Coastal Buses</span></p>
+<p class="MsoListParagraphCxSpMiddle"><span><span>-</span></span><span>50-seater Buses</span></p>
+<p class="MsoListParagraphCxSpLast"><span><span>-</span></span><span>Others (Specify)</span></p>
+<p class="MsoNormal"></p>
+<ul type="disc">
+<li class="MsoNormal"><span lang="EN-GB" type="disc">
+<li class="MsoNormal"><span>Waste
+     Management &amp; Post-Event Clean-Up ï¿½ GHS 300.00 PER PERSON, PER DAY</span></li>
+</span></li></ul>
+<p class="MsoNormal"></p>
+<p class="MsoNormal"></p>
+</li></ul></li></ul></li></ol></li></ul></li></ul></li></ul></li></ul></li></ul></li></ol></li></ul></div>
+</body></html>
+
+</body>
+</html>
